@@ -11,6 +11,7 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
+* [Links](#links)
 
 
 ## Introduction
@@ -76,3 +77,10 @@ All the specifications were implemented.
 - Thanks to Mrs. Masayu Leylia Khodra, Mrs. Nur Ulfa Maulidevi, and Mr. Rinaldi as our lecturers
 - Thanks to academic assistants
 - This project was created to fulfill our Small Project for IF2211 Algorithm Strategies
+
+
+## Links
+- [Java Language Documentation](https://docs.oracle.com/en/java/)
+- [Java Swing Package Documentation](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html)
+- [Dictionary Used in Program](https://docs.oracle.com/javase/tutorial/collections/interfaces/examples/dictionary.txt)
+- [Word Ladder Game Reference](https://wordwormdormdork.com/)
