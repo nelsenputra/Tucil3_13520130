@@ -43,7 +43,7 @@ The whole program was written in Java.
 
 ## Setup
 ### Installation
-- Download and install [Java](https://www.java.com/en/) (Prerquisite: Java 19 or newer)
+- Download and install [Java](https://www.java.com/en/) (Pre-requisite: Java 19 or newer)
 - Install the whole modules and libraries used in the source code if needed
 - Download the whole folders and files in this repository or do clone the repository
 
